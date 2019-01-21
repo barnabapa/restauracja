@@ -54,7 +54,7 @@ a {
     color: #000; }
 
 .pb_tab_v1 {
-  margin-bottom: 70px; }
+  margin-bottom: 35px; }
   @media (max-width: 767px) {
     .pb_tab_v1 .nav-item {
       display: block;
